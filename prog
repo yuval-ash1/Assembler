@@ -1,0 +1,14 @@
+;this is a test
+        Org    100
+hi     read    x;comment immediately after statement
+        LOAD    x
+hay   store   y ; This is the another comment.
+      write    x
+      bp      hi
+        halt
+;test
+x      dc      5
+y      ds      99
+b      dc      555
+a      dc      100
+end
