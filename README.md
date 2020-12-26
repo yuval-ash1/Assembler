@@ -8,7 +8,7 @@ CONTENTS OF THIS FILE
 
 INTRUDUCTION
 ------------
-This project is a multiclass project written in C++ as the final project for Software Design class in Ramapo College (CMPS361).
+This project is a multi-class project written in C++ as the final project for Software Design class in Ramapo College (CMPS361).
 The Assembler is designed to run the "VC-3600"- a fictional decimal computer.
 The program processes the VC-3600 assembly language into machine language.
 The program also includes an emulator that imitates a specified machine.
